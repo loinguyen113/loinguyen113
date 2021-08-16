@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1024px) {
+    .lmht{
+        width: 40%;
+    }
+    .dtcl__img{
+        width: 30%;
+    }
+    .dtcl__info{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .lmht{
+        width: 100%;
+    }
+    .dtcl{
+        height: auto;
+    }
+    .dtcl__img{
+        width: 100%;
+    }
+    .dtcl__info{
+        width: 100%;
+    }
+
+}

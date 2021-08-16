@@ -1,0 +1,29 @@
+.dtcl{
+    height: 200px;
+    width: 98%;
+    float: left;;
+    margin-left: 1% ;
+    margin-top: 10px ;
+    &__img{
+        height: 200px;
+        width: 30%;
+        float: left;
+        margin-right: 10px;
+    }
+    &__info{
+        float: left;
+        width: 60%;
+    }
+    &__text{
+        float: left;
+        font-size: 10px;
+    }
+    &--100{
+        width: 100%;
+    }
+    &__title{
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
